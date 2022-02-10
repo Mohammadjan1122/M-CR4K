@@ -14,11 +14,11 @@ crack fb New
 * ```pkg install git python2 -y```
 * ```git clone https://github.com/Mohammadjan1122/M-CR4K```
 * ```cd M-CR4K```
-* ```python2 M-CR4K.so```
+* ```python2 afg.py```
 
 ### Or ; Use Single Command
 ```
-pkg update && pkg install git python2 -y && git clone https://github.com/Mohammadjan1122/M-CR4K && cd M-CR4K && python2 M-CR4K.so
+pkg update && pkg install git python2 -y && git clone https://github.com/Mohammadjan1122/M-CR4K && cd M-CR4K && python2 afg.py
 ```
 ### Find Me On :
 [![Github](https://img.shields.io/badge/Github-Mohammadjan1122-green?style=for-the-badge&logo=github)](https://github.com/Mohammadjan1122)
