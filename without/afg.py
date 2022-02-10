@@ -17,7 +17,6 @@ from pro import mking_menu
 bit = platform.architecture()[0]
 
 if bit == '64bit':
-
-	mking_menu()elif bit == '32bit':
-
+	mking_menu()
+elif bit == '32bit':
 	mking_menu()
