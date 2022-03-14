@@ -9,8 +9,8 @@ import requests
 os.system("git pull") 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from mking import mohammad
-    mohammad()
+	os.system("git pull")
+	os.system("cd aarch64 && chmod 777 mking.so && chmod 777 pro.so && python2 afg.py") 
 elif bit == '32bit':
-    from mking import mohammad
-    mohammad()
+	os.system("git pull")
+	os.system("cd aarch32 && chmod 777 mking.so && chmod 777 pro.so && python2 afg.py") 
